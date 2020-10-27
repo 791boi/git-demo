@@ -1,2 +1,3 @@
 1234445
-прив кд чд
+priv kd chd
+poka ne kd chd
